@@ -1,4 +1,4 @@
-package github.com/peach7orange/seric
+package seric
 
 import (
 	"fmt"
